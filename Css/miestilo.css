@@ -1,0 +1,35 @@
+.lineal {
+    border: solid 1px black;
+    background: -webkit-linear-gradient(bottom right, red, orange, red);
+  }
+  img.marca{
+    width: 80px;
+    float: left;
+    background-repeat: no-repeat;
+    margin: 0 0 0 5px;
+  }
+  .fondo{
+    background-image: url("../Imagenes/Mundo2.jpg");
+    background-position:top;
+    background-size: auto;
+    background-repeat: no-repeat;
+    height: 1500px;
+    width: 1300px;
+  }
+  .caja{
+    border: 1px;
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 10px;
+    background-color: rgba(249,249,249,0.9);
+    clear: both;
+  }
+  p{
+    text-align: justify;
+    font-size: 14px;
+  }
+  img.foto{
+    width: 240px;
+    height: 120px;
+    float: none;
+  }
